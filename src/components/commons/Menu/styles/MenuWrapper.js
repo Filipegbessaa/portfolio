@@ -2,17 +2,20 @@ import styled from 'styled-components';
 
 export const MenuWrapper = styled.nav`
   font-family: 'Roboto', sans-serif;
+  height: 100vh; 
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  
 `;
 
-MenuWrapper.Left = style.div`
+MenuWrapper.Top = styled.div`
+  margin-top: 10px;
+`
+MenuWrapper.Center = styled.div`
 
 `
-MenuWrapper.center = style.div`
-
+MenuWrapper.Bottom = styled.div`
+  
 `
-MenuWrapper.Right = style.div`
 
-`
