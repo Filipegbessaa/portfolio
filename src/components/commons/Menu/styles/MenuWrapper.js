@@ -16,6 +16,6 @@ MenuWrapper.Center = styled.div`
 
 `
 MenuWrapper.Bottom = styled.div`
-  
+  margin-bottom: 10px;
 `
 
