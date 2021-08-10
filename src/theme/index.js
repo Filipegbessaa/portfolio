@@ -1,7 +1,7 @@
 import { colors } from './colors'
-import { typographVariants } from './typographVariants';
+import { typographyVariants } from './typographyVariants';
 
 export const theme = {
     colors,
-    typographVariants,
+    typographyVariants,
 };

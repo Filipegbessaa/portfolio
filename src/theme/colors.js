@@ -8,7 +8,7 @@ export const colors = {
         light: '#043062'
     },
     secondary: {
-        main: '0#201A23',
+        main: '#201A23',
         light: '#2B232F',
     },
     tertiary: {
